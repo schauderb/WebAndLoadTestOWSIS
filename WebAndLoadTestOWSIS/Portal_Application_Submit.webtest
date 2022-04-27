@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="Portal_Application_Submit" Id="b1bb0482-5161-4ee0-8eb4-76c3821e4aa6" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="ApplicationTester@piu.edu" CredentialPassword="QWwOodIXpSMUJS7jU7JjcQ==" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="" ResultsLocale="">
+  <Items>
+    <IncludedWebTest Name="WebTest1" Path="webtest1.webtest" Id="f819f81e-3e4b-452c-bc3f-5751bf19ce35" IsCodedWebTest="False" InheritWebTestSettings="False" />
+  </Items>
+</WebTest>
